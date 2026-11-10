@@ -6,6 +6,8 @@ More people now ask AI assistants instead of searching. WebAISEO checks whether 
 trust a web page, gives it a 0-100 score, and lists what to fix, page by page, in priority order.
 
 - **Run the free check in the browser:** https://truetest.uk/ai-search?utm_source=github&utm_medium=readme
+- **Free demo page on Hugging Face:** https://huggingface.co/spaces/Desilver1234/ai-search-check-free
+- **Official MCP Registry:** `uk.truetest/ai-search`
 - 20 categories, 56 named checks, 19 AI crawlers (robots.txt access, llms.txt, schema / structured data, content
   extractability, citation worthiness, answer-engine readiness and more).
 

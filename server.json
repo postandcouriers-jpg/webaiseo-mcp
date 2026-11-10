@@ -3,8 +3,19 @@
   "name": "uk.truetest/ai-search",
   "title": "WebAISEO - AI-search readiness check",
   "description": "FREE check: can AI search engines find, read and trust your web page? Fixes listed per page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://truetest.uk/ai-search",
+  "repository": {
+    "url": "https://github.com/postandcouriers-jpg/webaiseo-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://truetest.uk/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

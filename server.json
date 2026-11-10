@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "uk.truetest/ai-search",
+  "title": "WebAISEO - AI-search readiness check",
+  "description": "FREE check: can AI search engines find, read and trust your web page? Fixes listed per page",
+  "version": "1.0.0",
+  "websiteUrl": "https://truetest.uk/ai-search",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://truetest.uk/mcp/ai-search"
+    }
+  ]
+}
